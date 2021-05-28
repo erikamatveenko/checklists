@@ -1,8 +1,8 @@
-Sign Up checklist:
-Smoke test:
+#### Sign Up checklist:
+__*Smoke test:*__
 Fill in all fields with correct data
 
-Critical path test:
+<i><b>Critical path test:</b></i>  
 Correct data:
 	First name, Last name:
 		First letter is capital
@@ -87,7 +87,7 @@ Links:
 	Data Policy
 	Cookies Policy
 
-Extended test:
+<i><b>Extended test:</b></i>  
 HTML characters code in all text fields
 XSS attacks in all text fields
 SQL injections in all text fields
